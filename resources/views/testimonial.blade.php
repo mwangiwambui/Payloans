@@ -24,11 +24,11 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="singleTestimoinal">
                         <div class="testiThumb">
-                            <img src="images/tsetimoinal.png" alt=""/>
+                            <img src="{{ asset('payloan') }}images/tsetimoinal.png" alt=""/>
                         </div>
                         <div class="quote">
-                            <img src="images/quote.png" alt="">
-                            <img src="images/quote_hover.png" alt="">
+                            <img src="{{ asset('payloan') }}images/quote.png" alt="">
+                            <img src="{{ asset('payloan') }}images/quote_hover.png" alt="">
                         </div>
                         <p>
                             From time time we need generate sample names populate a test database
@@ -36,19 +36,19 @@
                         </p>
                         <h5>Calvin Cannon</h5>
                         <div class="signature">
-                            <img src="images/signature2.png" alt=""/>
-                            <img src="images/signature.png" alt=""/>
+                            <img src="{{ asset('payloan') }}images/signature2.png" alt=""/>
+                            <img src="{{ asset('payloan') }}images/signature.png" alt=""/>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="singleTestimoinal">
                         <div class="testiThumb">
-                            <img src="images/tsetimoinal.png" alt=""/>
+                            <img src="{{ asset('payloan') }}images/tsetimoinal.png" alt=""/>
                         </div>
                         <div class="quote">
-                            <img src="images/quote.png" alt="">
-                            <img src="images/quote_hover.png" alt="">
+                            <img src="{{ asset('payloan') }}images/quote.png" alt="">
+                            <img src="{{ asset('payloan') }}images/quote_hover.png" alt="">
                         </div>
                         <p>
                             From time time we need generate sample names populate a test database
@@ -56,19 +56,19 @@
                         </p>
                         <h5>Evelyn Goodman</h5>
                         <div class="signature">
-                            <img src="images/signature2.png" alt=""/>
-                            <img src="images/signature.png" alt=""/>
+                            <img src="{{ asset('payloan') }}images/signature2.png" alt=""/>
+                            <img src="{{ asset('payloan') }}images/signature.png" alt=""/>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="singleTestimoinal">
                         <div class="testiThumb">
-                            <img src="images/tsetimoinal.png" alt=""/>
+                            <img src="{{ asset('payloan') }}images/tsetimoinal.png" alt=""/>
                         </div>
                         <div class="quote">
-                            <img src="images/quote.png" alt="">
-                            <img src="images/quote_hover.png" alt="">
+                            <img src="{{ asset('payloan') }}images/quote.png" alt="">
+                            <img src="{{ asset('payloan') }}images/quote_hover.png" alt="">
                         </div>
                         <p>
                             From time time we need generate sample names populate a test database
@@ -76,19 +76,19 @@
                         </p>
                         <h5>Austin Matthews</h5>
                         <div class="signature">
-                            <img src="images/signature2.png" alt=""/>
-                            <img src="images/signature.png" alt=""/>
+                            <img src="{{ asset('payloan') }}images/signature2.png" alt=""/>
+                            <img src="{{ asset('payloan') }}images/signature.png" alt=""/>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="singleTestimoinal">
                         <div class="testiThumb">
-                            <img src="images/tsetimoinal.png" alt=""/>
+                            <img src="{{ asset('payloan') }}images/tsetimoinal.png" alt=""/>
                         </div>
                         <div class="quote">
-                            <img src="images/quote.png" alt="">
-                            <img src="images/quote_hover.png" alt="">
+                            <img src="{{ asset('payloan') }}images/quote.png" alt="">
+                            <img src="{{ asset('payloan') }}images/quote_hover.png" alt="">
                         </div>
                         <p>
                             From time time we need generate sample names populate a test database
@@ -96,19 +96,19 @@
                         </p>
                         <h5>Janie Mclaughlin</h5>
                         <div class="signature">
-                            <img src="images/signature2.png" alt=""/>
-                            <img src="images/signature.png" alt=""/>
+                            <img src="{{ asset('payloan') }}images/signature2.png" alt=""/>
+                            <img src="{{ asset('payloan') }}images/signature.png" alt=""/>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="singleTestimoinal">
                         <div class="testiThumb">
-                            <img src="images/tsetimoinal.png" alt=""/>
+                            <img src="{{ asset('payloan') }}images/tsetimoinal.png" alt=""/>
                         </div>
                         <div class="quote">
-                            <img src="images/quote.png" alt="">
-                            <img src="images/quote_hover.png" alt="">
+                            <img src="{{ asset('payloan') }}images/quote.png" alt="">
+                            <img src="{{ asset('payloan') }}images/quote_hover.png" alt="">
                         </div>
                         <p>
                             From time time we need generate sample names populate a test database
@@ -116,19 +116,19 @@
                         </p>
                         <h5>Anthony Bishop</h5>
                         <div class="signature">
-                            <img src="images/signature2.png" alt=""/>
-                            <img src="images/signature.png" alt=""/>
+                            <img src="{{ asset('payloan') }}images/signature2.png" alt=""/>
+                            <img src="{{ asset('payloan') }}images/signature.png" alt=""/>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="singleTestimoinal">
                         <div class="testiThumb">
-                            <img src="images/tsetimoinal.png" alt=""/>
+                            <img src="{{ asset('payloan') }}images/tsetimoinal.png" alt=""/>
                         </div>
                         <div class="quote">
-                            <img src="images/quote.png" alt="">
-                            <img src="images/quote_hover.png" alt="">
+                            <img src="{{ asset('payloan') }}images/quote.png" alt="">
+                            <img src="{{ asset('payloan') }}images/quote_hover.png" alt="">
                         </div>
                         <p>
                             From time time we need generate sample names populate a test database
@@ -136,8 +136,8 @@
                         </p>
                         <h5>Reginald Miller</h5>
                         <div class="signature">
-                            <img src="images/signature2.png" alt=""/>
-                            <img src="images/signature.png" alt=""/>
+                            <img src="{{ asset('payloan') }}images/signature2.png" alt=""/>
+                            <img src="{{ asset('payloan') }}images/signature.png" alt=""/>
                         </div>
                     </div>
                 </div>

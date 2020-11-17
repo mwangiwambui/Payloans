@@ -22,7 +22,7 @@
             <div class="row">
                 <div class="col-lg-7">
                     <div class="singleABThumb">
-                        <img src="images/about/1.png" alt=""/>
+                        <img src="{{ asset('payloan') }}images/about/1.png" alt=""/>
                     </div>
                 </div>
                 <div class="col-lg-5">
@@ -73,7 +73,7 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="singleABThumb_2">
-                        <img src="images/about/2.png" alt=""/>
+                        <img src="{{ asset('payloan') }}images/about/2.png" alt=""/>
                     </div>
                 </div>
             </div>
@@ -156,28 +156,28 @@
             <div class="row">
                 <div class="col-lg-3 col-md-6">
                     <div class="singleTeam text-center">
-                        <img src="images/team/1.png" alt=""/>
+                        <img src="{{ asset('payloan') }}images/team/1.png" alt=""/>
                         <h4>Roxanne Bryant</h4>
                         <p>Managing Director</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <div class="singleTeam text-center">
-                        <img src="images/team/2.png" alt=""/>
+                        <img src="{{ asset('payloan') }}images/team/2.png" alt=""/>
                         <h4>Dominic Jefferson</h4>
                         <p>Head of Marketing</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <div class="singleTeam text-center">
-                        <img src="images/team/3.png" alt=""/>
+                        <img src="{{ asset('payloan') }}images/team/3.png" alt=""/>
                         <h4>Mercedes Baldwin</h4>
                         <p>General Manager</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <div class="singleTeam text-center">
-                        <img src="images/team/4.png" alt=""/>
+                        <img src="{{ asset('payloan') }}images/team/4.png" alt=""/>
                         <h4>Gertrude Keller</h4>
                         <p>Commercial Manager</p>
                     </div>
@@ -200,8 +200,8 @@
                 <div class="col-lg-6 col-md-6">
                     <div class="customer_area">
                         <div class="singleCustomer">
-                            <img src="images/about/5.png" alt=""/>
-                            <div class="quote_img"><img src="images/quote.png" alt=""/></div>
+                            <img src="{{ asset('payloan') }}images/about/5.png" alt=""/>
+                            <div class="quote_img"><img src="{{ asset('payloan') }}images/quote.png" alt=""/></div>
                             <p>
                                 From time time we need generate
                                 sample names to populate a test
@@ -210,12 +210,12 @@
                             </p>
                             <h5>Austin Matthews</h5>
                             <div class="cus_signature">
-                                <img src="images/signature.png" alt=""/>
+                                <img src="{{ asset('payloan') }}images/signature.png" alt=""/>
                             </div>
                         </div>
                         <div class="singleCustomer">
-                            <img src="images/about/5.png" alt=""/>
-                            <div class="quote_img"><img src="images/quote.png" alt=""/></div>
+                            <img src="{{ asset('payloan') }}images/about/5.png" alt=""/>
+                            <div class="quote_img"><img src="{{ asset('payloan') }}images/quote.png" alt=""/></div>
                             <p>
                                 From time time we need generate
                                 sample names to populate a test
@@ -224,12 +224,12 @@
                             </p>
                             <h5>Evelyn Goodman</h5>
                             <div class="cus_signature">
-                                <img src="images/signature.png" alt=""/>
+                                <img src="{{ asset('payloan') }}images/signature.png" alt=""/>
                             </div>
                         </div>
                         <div class="singleCustomer">
-                            <img src="images/about/5.png" alt=""/>
-                            <div class="quote_img"><img src="images/quote.png" alt=""/></div>
+                            <img src="{{ asset('payloan') }}images/about/5.png" alt=""/>
+                            <div class="quote_img"><img src="{{ asset('payloan') }}images/quote.png" alt=""/></div>
                             <p>
                                 From time time we need generate
                                 sample names to populate a test
@@ -238,14 +238,14 @@
                             </p>
                             <h5>Calvin Cannon</h5>
                             <div class="cus_signature">
-                                <img src="images/signature.png" alt=""/>
+                                <img src="{{ asset('payloan') }}images/signature.png" alt=""/>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6">
                     <div class="customer_thumb">
-                        <img src="images/about/3.png" alt=""/>
+                        <img src="{{ asset('payloan') }}images/about/3.png" alt=""/>
                     </div>
                 </div>
             </div>

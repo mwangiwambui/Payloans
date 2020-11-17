@@ -24,7 +24,7 @@
                 <div class="col-lg-9 col-md-8">
                     <div class="singleBlogDetails">
                         <div class="blogThumb">
-                            <img src="images/blog/1.jpg" alt=""/>
+                            <img src="{{ asset('payloan') }}images/blog/1.jpg" alt=""/>
                         </div>
                         <div class="blogDetail">
                             <h3>We provide best financial soluation.</h3>
@@ -81,22 +81,22 @@
                             <h3>Related Post:</h3>
                             <div class="related_post_slide">
                                 <div class="SRPost">
-                                    <img src="images/blog/4.jpg" alt=""/>
+                                    <img src="{{ asset('payloan') }}images/blog/4.jpg" alt=""/>
                                     <h4><a href="#">Batin the word in classical</a></h4>
                                     <p>We all know how hard it can be to make a site look like the demo soe make your start into.</p>
                                 </div>
                                 <div class="SRPost">
-                                    <img src="images/blog/5.jpg" alt=""/>
+                                    <img src="{{ asset('payloan') }}images/blog/5.jpg" alt=""/>
                                     <h4><a href="#">Currently working medical</a></h4>
                                     <p>We all know how hard it can be to make a site look like the demo soe make your start into.</p>
                                 </div>
                                 <div class="SRPost">
-                                    <img src="images/blog/4.jpg" alt=""/>
+                                    <img src="{{ asset('payloan') }}images/blog/4.jpg" alt=""/>
                                     <h4><a href="#">Batin the word in classical</a></h4>
                                     <p>We all know how hard it can be to make a site look like the demo soe make your start into.</p>
                                 </div>
                                 <div class="SRPost">
-                                    <img src="images/blog/5.jpg" alt=""/>
+                                    <img src="{{ asset('payloan') }}images/blog/5.jpg" alt=""/>
                                     <h4><a href="#">Currently working medical</a></h4>
                                     <p>We all know how hard it can be to make a site look like the demo soe make your start into.</p>
                                 </div>

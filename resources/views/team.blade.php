@@ -22,7 +22,7 @@
             <div class="row">
                 <div class="col-lg-3 col-md-6">
                     <div class="singleTeam_2 text-center">
-                        <img src="images/team/1.jpg" alt=""/>
+                        <img src="{{ asset('payloan') }}images/team/1.jpg" alt=""/>
                         <h4>Sabrina Michele</h4>
                         <p>Marketing Manager</p>
                         <div class="teamSocial">
@@ -35,7 +35,7 @@
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <div class="singleTeam_2 text-center">
-                        <img src="images/team/2.jpg" alt=""/>
+                        <img src="{{ asset('payloan') }}images/team/2.jpg" alt=""/>
                         <h4>Shizue Tomlinson</h4>
                         <p>Marketing Manager</p>
                         <div class="teamSocial">
@@ -48,7 +48,7 @@
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <div class="singleTeam_2 text-center">
-                        <img src="images/team/3.jpg" alt=""/>
+                        <img src="{{ asset('payloan') }}images/team/3.jpg" alt=""/>
                         <h4>Chance Sargent</h4>
                         <p>Marketing Manager</p>
                         <div class="teamSocial">
@@ -61,7 +61,7 @@
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <div class="singleTeam_2 text-center">
-                        <img src="images/team/4.jpg" alt=""/>
+                        <img src="{{ asset('payloan') }}images/team/4.jpg" alt=""/>
                         <h4>Trudie Kozlowski</h4>
                         <p>Marketing Manager</p>
                         <div class="teamSocial">
@@ -76,7 +76,7 @@
             <div class="row pdLeftRight">
                 <div class="col-lg-4 col-md-6">
                     <div class="singleTeam_2 text-center">
-                        <img src="images/team/5.jpg" alt=""/>
+                        <img src="{{ asset('payloan') }}images/team/5.jpg" alt=""/>
                         <h4>Mariel Cameron</h4>
                         <p>Marketing Manager</p>
                         <div class="teamSocial">
@@ -89,7 +89,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="singleTeam_2 text-center">
-                        <img src="images/team/6.jpg" alt=""/>
+                        <img src="{{ asset('payloan') }}images/team/6.jpg" alt=""/>
                         <h4>Karren Greenberg</h4>
                         <p>Marketing Manager</p>
                         <div class="teamSocial">
@@ -102,7 +102,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="singleTeam_2 text-center">
-                        <img src="images/team/7.jpg" alt=""/>
+                        <img src="{{ asset('payloan') }}images/team/7.jpg" alt=""/>
                         <h4>Myrtis Galbraith</h4>
                         <p>Marketing Manager</p>
                         <div class="teamSocial">

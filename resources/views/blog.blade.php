@@ -24,7 +24,7 @@
                 <div class="col-lg-9 col-md-8">
                     <div class="singleBlog">
                         <div class="blogThumb">
-                            <img src="images/blog/1.jpg" alt=""/>
+                            <img src="{{ asset('payloan') }}images/blog/1.jpg" alt=""/>
                         </div>
                         <div class="blogDetail">
                             <h3><a href="single_blog.html">We provide best financial soluation.</a></h3>
@@ -41,7 +41,7 @@
                     </div>
                     <div class="singleBlog">
                         <div class="blogThumb">
-                            <img src="images/blog/2.jpg" alt=""/>
+                            <img src="{{ asset('payloan') }}images/blog/2.jpg" alt=""/>
                         </div>
                         <div class="blogDetail">
                             <h3><a href="single_blog.html">Currently working medical appointment.</a></h3>
@@ -58,7 +58,7 @@
                     </div>
                     <div class="singleBlog">
                         <div class="blogThumb">
-                            <img src="images/blog/3.jpg" alt=""/>
+                            <img src="{{ asset('payloan') }}images/blog/3.jpg" alt=""/>
                         </div>
                         <div class="blogDetail">
                             <h3><a href="single_blog.html">Working on a conceptual SaaS product.</a></h3>

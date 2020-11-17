@@ -36,15 +36,15 @@
                         <li class="menu-item-has-children">
                             <a href="#">Services</a>
                             <ul class="sub-menu">
-                                <li><a href="services.html">Service 01</a></li>
+                                <li><a href="{{route('services')}}">Service 01</a></li>
                                 <li><a href="services2.html">Service 02</a></li>
-                                <li><a href="service_details.html">Service Details</a></li>
+                                <li><a href="{{route('service_details')}}">Service Details</a></li>
                             </ul>
                         </li>
                         <li class="menu-item-has-children">
                             <a href="#">Pages</a>
                             <ul class="sub-menu">
-                                <li><a href="about.html">About</a></li>
+                                <li><a href="{{route('about')}}">About</a></li>
                                 <li><a href="404.html">404 Page</a></li>
                                 <li><a href="faq.html">Faq Page</a></li>
                                 <li class="menu-item-has-children">
@@ -62,8 +62,8 @@
                                     </ul>
                                 </li>
                                 <li><a href="team.html">Team Member</a></li>
-                                <li><a href="application_form.html">Application Form</a></li>
-                                <li><a href="loan_calculation.html">Loan Calculation</a></li>
+                                <li><a href="{{route('application')}}">Application Form</a></li>
+                                <li><a href="{{route(('loan_calculation'))}}">Loan Calculation</a></li>
                             </ul>
                         </li>
                         <li class="menu-item-has-children">

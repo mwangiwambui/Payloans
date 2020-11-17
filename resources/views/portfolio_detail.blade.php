@@ -34,7 +34,7 @@
                                 much better off than withen
                                 with the theme and the core structur for your site is already mind.
                             </p>
-                            <img src="images/folio/10.jpg" alt=""/>
+                            <img src="{{ asset('payloan') }}images/folio/10.jpg" alt=""/>
                             <p>
                                 Critise import the sample files we ship with the theme and the core structur for your
                                 site isse already mind that
@@ -78,7 +78,7 @@
                             <div class="related_slide">
                                 <div class="singleFolio">
                                     <div class="folioThumb">
-                                        <img src="images/folio/11.jpg" alt=""/>
+                                        <img src="{{ asset('payloan') }}images/folio/11.jpg" alt=""/>
                                     </div>
                                     <div class="foilo_overlay">
                                         <div class="folio_aling">
@@ -93,7 +93,7 @@
                                 </div>
                                 <div class="singleFolio">
                                     <div class="folioThumb">
-                                        <img src="images/folio/12.jpg" alt=""/>
+                                        <img src="{{ asset('payloan') }}images/folio/12.jpg" alt=""/>
                                     </div>
                                     <div class="foilo_overlay">
                                         <div class="folio_aling">
@@ -108,7 +108,7 @@
                                 </div>
                                 <div class="singleFolio">
                                     <div class="folioThumb">
-                                        <img src="images/folio/11.jpg" alt=""/>
+                                        <img src="{{ asset('payloan') }}images/folio/11.jpg" alt=""/>
                                     </div>
                                     <div class="foilo_overlay">
                                         <div class="folio_aling">
@@ -123,7 +123,7 @@
                                 </div>
                                 <div class="singleFolio">
                                     <div class="folioThumb">
-                                        <img src="images/folio/12.jpg" alt=""/>
+                                        <img src="{{ asset('payloan') }}images/folio/12.jpg" alt=""/>
                                     </div>
                                     <div class="foilo_overlay">
                                         <div class="folio_aling">

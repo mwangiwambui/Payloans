@@ -23,7 +23,7 @@
                 <div class="col-xl-5 col-lg-6 col-md-12">
                     <div class="tw-stretch-element-inside-column">
                         <div class="calculationThumb">
-                            <img src="images/calculation.png" alt=""/>
+                            <img src="{{ asset('payloan') }}images/calculation.png" alt=""/>
                         </div>
                     </div>
                 </div>

@@ -25,7 +25,7 @@
                 <div class="col-lg-6 col-md-12">
                     <div class="tw-stretch-element-inside-column">
                         <div class="serDetailThumb">
-                            <img src="images/s1.png" alt=""/>
+                            <img src="{{ asset('payloan') }}images/s1.png" alt=""/>
                         </div>
                     </div>
                 </div>

@@ -23,7 +23,7 @@
                 <div class="col-lg-4 col-md-6 item">
                     <div class="singleFolio folioMR_20">
                         <div class="folioThumb">
-                            <img src="images/folio/1.jpg" alt=""/>
+                            <img src="{{ asset('payloan') }}images/folio/1.jpg" alt=""/>
                         </div>
                         <div class="foilo_overlay">
                             <div class="folio_aling">
@@ -40,7 +40,7 @@
                 <div class="col-lg-4 col-md-6 item">
                     <div class="singleFolio folioMLR_10">
                         <div class="folioThumb">
-                            <img src="images/folio/2.jpg" alt=""/>
+                            <img src="{{ asset('payloan') }}images/folio/2.jpg" alt=""/>
                         </div>
                         <div class="foilo_overlay">
                             <div class="folio_aling">
@@ -57,7 +57,7 @@
                 <div class="col-lg-4 col-md-6 item">
                     <div class="singleFolio folioML_20">
                         <div class="folioThumb">
-                            <img src="images/folio/3.jpg" alt=""/>
+                            <img src="{{ asset('payloan') }}images/folio/3.jpg" alt=""/>
                         </div>
                         <div class="foilo_overlay">
                             <div class="folio_aling">
@@ -74,7 +74,7 @@
                 <div class="col-lg-4 col-md-6 item">
                     <div class="singleFolio folioMR_20">
                         <div class="folioThumb">
-                            <img src="images/folio/4.jpg" alt=""/>
+                            <img src="{{ asset('payloan') }}images/folio/4.jpg" alt=""/>
                         </div>
                         <div class="foilo_overlay">
                             <div class="folio_aling">
@@ -91,7 +91,7 @@
                 <div class="col-lg-4 col-md-6 item">
                     <div class="singleFolio folioML_20">
                         <div class="folioThumb">
-                            <img src="images/folio/6.jpg" alt=""/>
+                            <img src="{{ asset('payloan') }}images/folio/6.jpg" alt=""/>
                         </div>
                         <div class="foilo_overlay">
                             <div class="folio_aling">
@@ -108,7 +108,7 @@
                 <div class="col-lg-4 col-md-6 item">
                     <div class="singleFolio folioMLR_10">
                         <div class="folioThumb">
-                            <img src="images/folio/5.jpg" alt=""/>
+                            <img src="{{ asset('payloan') }}images/folio/5.jpg" alt=""/>
                         </div>
                         <div class="foilo_overlay">
                             <div class="folio_aling">
@@ -125,7 +125,7 @@
                 <div class="col-lg-4 col-md-6 item">
                     <div class="singleFolio folioMR_20">
                         <div class="folioThumb">
-                            <img src="images/folio/7.jpg" alt=""/>
+                            <img src="{{ asset('payloan') }}images/folio/7.jpg" alt=""/>
                         </div>
                         <div class="foilo_overlay">
                             <div class="folio_aling">
@@ -142,7 +142,7 @@
                 <div class="col-lg-4 col-md-6 item">
                     <div class="singleFolio folioMLR_10">
                         <div class="folioThumb">
-                            <img src="images/folio/8.jpg" alt=""/>
+                            <img src="{{ asset('payloan') }}images/folio/8.jpg" alt=""/>
                         </div>
                         <div class="foilo_overlay">
                             <div class="folio_aling">
@@ -159,7 +159,7 @@
                 <div class="col-lg-4 col-md-6 item">
                     <div class="singleFolio folioML_20">
                         <div class="folioThumb">
-                            <img src="images/folio/9.jpg" alt=""/>
+                            <img src="{{ asset('payloan') }}images/folio/9.jpg" alt=""/>
                         </div>
                         <div class="foilo_overlay">
                             <div class="folio_aling">
