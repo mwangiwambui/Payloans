@@ -15,7 +15,7 @@ class LoanController extends Controller
     public function index()
     {
         $loan =Loan_Applications::all();
-        return view('loans_dashboard', compact('loan'));
+        return view('application_form', compact('loan'));
     }
 
     /**
@@ -83,5 +83,15 @@ class LoanController extends Controller
     public function destroy($id)
     {
         //
+    }
+    public function fileUploadPost(Request $request){
+        $request->validate([
+            'file' => 'required|mimes:pdf,xlx,csv|max:2048',
+        ]);
+        $fileName = time().'.'.$request->file->extension();
+        $request->file->move(public_path('uploads'), $fileName);
+        return back()
+            ->with('success','You have succesfully upload file')
+            ->with('file',$fileName);
     }
 }
